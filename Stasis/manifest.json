@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "Stasis.dll",
+  "author": "Stonesword",
+  "name": "Stasis",
+  "uniqueName": "Stonesword.Stasis",
+  "version": "0.1.0",
+  "owmlVersion": "2.11.1",
+  "dependencies": ["xen.NewHorizons"]
+}
